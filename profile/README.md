@@ -1,8 +1,3 @@
-# CodexVerse Profile README
-
-This README should be placed in a repository named `.github` with a file named `profile/README.md` to display on your organization's profile page.
-
-```markdown
 <div align="center">
   <img src="https://via.placeholder.com/200" alt="CodexVerse Logo" width="200"/>
   <h1>Welcome to CodexVerse</h1>
@@ -108,4 +103,3 @@ Check out our pinned repositories below for some of our best work!
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=codixverse&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
-```
