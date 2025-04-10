@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/200" alt="CodexVerse Logo" width="200"/>
+  <img src="#" alt="CodexVerse Logo" width="200"/>
   <h1>Welcome to CodixVerse</h1>
   <p>Transforming ideas into exceptional web experiences</p>
   
