@@ -41,7 +41,7 @@ We are a team of passionate freelance developers specializing in web development
         <sub><b>Yassen Ahmed</b></sub>
       </a>
       <br />
-      <sub>Backend Specialist</sub>
+      <sub>Frontend Expert</sub>
     </td>
     <td align="center">
       <a href="https://github.com/M7mdJs">
@@ -50,7 +50,7 @@ We are a team of passionate freelance developers specializing in web development
         <sub><b>Mohamed Shahba</b></sub>
       </a>
       <br />
-      <sub>Frontend Expert</sub>
+      <sub>Backend Specialist</sub>
     </td>
   </tr>
 </table>
