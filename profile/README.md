@@ -1,71 +1,111 @@
-# 🚀 CodexVerse
+# CodexVerse Profile README
 
-![CodexVerse](https://via.placeholder.com/1200x300)
+This README should be placed in a repository named `.github` with a file named `profile/README.md` to display on your organization's profile page.
 
-## About Us
-We are CodexVerse, a team of passionate freelance web developers dedicated to transforming your ideas into exceptional web experiences. With our combined expertise in frontend and backend technologies, we deliver scalable, responsive, and user-friendly web applications tailored to your specific needs.
+```markdown
+<div align="center">
+  <img src="https://via.placeholder.com/200" alt="CodexVerse Logo" width="200"/>
+  <h1>Welcome to CodexVerse</h1>
+  <p>Transforming ideas into exceptional web experiences</p>
+  
+  [![Website](https://img.shields.io/badge/Website-codixverse.xyz-blue?style=flat-square&logo=google-chrome)](https://codixverse.xyz)
+  [![Email](https://img.shields.io/badge/Email-contact%40codixverse.xyz-red?style=flat-square&logo=gmail)](mailto:contact@codixverse.xyz)
+</div>
 
-## 💻 Our Tech Stack
+## 💼 Who We Are
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+We are a team of passionate freelance developers specializing in web development. With our expertise in both frontend and backend technologies, we create scalable, responsive, and user-friendly web applications tailored to meet our clients' specific requirements.
 
-### Backend
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🛠️ Our Services
 
-### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- **Full-Stack Web Development**
+- **Frontend Development**
+- **Backend Development**
+- **Responsive Web Design**
+- **Database Design & Optimization**
+- **API Development**
+- **Web Application Maintenance**
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 👨‍💻 Our Team
 
-## 👥 Our Team
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/devM7MD">
+        <img src="https://github.com/devM7MD.png" width="100px;" alt="Mohamed Elshamy"/>
+        <br />
+        <sub><b>Mohamed Elshamy</b></sub>
+      </a>
+      <br />
+      <sub>Full-stack Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yassendev">
+        <img src="https://github.com/yassendev.png" width="100px;" alt="Yassen Ahmed"/>
+        <br />
+        <sub><b>Yassen Ahmed</b></sub>
+      </a>
+      <br />
+      <sub>Backend Specialist</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/M7mdJs">
+        <img src="https://github.com/M7mdJs.png" width="100px;" alt="Mohamed Shahba"/>
+        <br />
+        <sub><b>Mohamed Shahba</b></sub>
+      </a>
+      <br />
+      <sub>Frontend Expert</sub>
+    </td>
+  </tr>
+</table>
 
-### Mohamed Elshamy ([@devM7MD](https://github.com/devM7MD))
-Full-stack Developer with expertise in modern JavaScript frameworks and responsive design.
+## 🧰 Technology Stack
 
-### Yassen Ahmed ([@yassendev](https://github.com/yassendev))
-Backend specialist focusing on scalable server architecture and database optimization.
+<div align="center">
+  
+  ### Frontend
+  
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  
+  ### Backend
+  
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  ### Database
+  
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  
+  ### DevOps & Tools
+  
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
-### Mohamed Shahba ([@M7mdJs](https://github.com/M7mdJs))
-Frontend expert with a passion for creating intuitive and responsive user interfaces.
+## 📌 Featured Projects
 
-## 🚧 Our Projects
-Check out our pinned repositories below to see some of our recent work!
+Check out our pinned repositories below for some of our best work!
 
-## 🤝 Work With Us
-Looking for a reliable development team to bring your ideas to life? We're available for:
+## 📬 Get in Touch
 
-- Full-stack web development
-- Frontend/Backend development
-- Responsive web design
-- Database design & optimization
-- API development
-- Web application maintenance
+- **Website:** [codixverse.xyz](https://codixverse.xyz)
+- **Email:** [contact@codixverse.xyz](mailto:contact@codixverse.xyz)
 
-## 📞 Contact Us
-- Website: [codixverse.xyz](https://codixverse.xyz)
-- Email: [contact@codixverse.xyz](mailto:contact@codixverse.xyz)
-- GitHub: [github.com/codixverse](https://github.com/codixverse)
-
-## 📈 GitHub Stats
-[![CodexVerse's GitHub stats](https://github-readme-stats.vercel.app/api?username=codixverse&show_icons=true&theme=radical)](https://github.com/codixverse)
-
----
-
-⭐️ From [CodexVerse](https://github.com/codixverse)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=codixverse&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+```
