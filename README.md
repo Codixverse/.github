@@ -40,10 +40,10 @@ We are CodexVerse, a team of passionate freelance web developers dedicated to tr
 Full-stack Developer with expertise in modern JavaScript frameworks and responsive design.
 
 ### Yassen Ahmed ([@yassendev](https://github.com/yassendev))
-Backend specialist focusing on scalable server architecture and database optimization.
+Frontend expert with a passion for creating intuitive and responsive user interfaces.
 
 ### Mohamed Shahba ([@M7mdJs](https://github.com/M7mdJs))
-Frontend expert with a passion for creating intuitive and responsive user interfaces.
+Backend specialist focusing on scalable server architecture and database optimization.
 
 ## 🚧 Our Projects
 Check out our pinned repositories below to see some of our recent work!
