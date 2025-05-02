@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="#" alt="CodexVerse Logo" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/207026159?s=400&u=4ea633382524602f01c4deb58c55332925ba5b1b&v=4" alt="CodexVerse Logo" width="200"/>
   <h1>Welcome to CodixVerse</h1>
   <p>Transforming ideas into exceptional web experiences</p>
   
