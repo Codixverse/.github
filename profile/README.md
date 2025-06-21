@@ -32,7 +32,7 @@ We are a team of passionate freelance developers specializing in web development
         <sub><b>Mohamed Elshamy</b></sub>
       </a>
       <br />
-      <sub>Full-stack Developer</sub>
+      <sub>Software Developer</sub>
     </td>
     <td align="center">
       <a href="https://github.com/yassendev">
