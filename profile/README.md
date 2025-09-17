@@ -52,15 +52,6 @@ We are a team of passionate freelance developers specializing in web development
       <br />
       <sub>Frontend Expert</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/iimazin11">
-        <img src="https://github.com/iimazin11.png" width="100px;" alt="Mohamed Shahba"/>
-        <br />
-        <sub><b>iimazin11</b></sub>
-      </a>
-      <br />
-      <sub>Full-Stack Web Developer</sub>
-    </td>
   </tr>
 </table>
 
