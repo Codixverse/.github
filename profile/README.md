@@ -21,40 +21,6 @@ We are a team of passionate freelance developers specializing in web development
 - **API Development**
 - **Web Application Maintenance**
 
-## 👨‍💻 Our Team
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/devM7MD">
-        <img src="https://github.com/devM7MD.png" width="100px;" alt="Mohamed Elshamy"/>
-        <br />
-        <sub><b>Mohamed Elshamy</b></sub>
-      </a>
-      <br />
-      <sub>Software Developer</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/yassendev">
-        <img src="https://github.com/yassendev.png" width="100px;" alt="Yassen Ahmed"/>
-        <br />
-        <sub><b>Yassen Ahmed</b></sub>
-      </a>
-      <br />
-      <sub>Frontend Expert</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/M7mdJs">
-        <img src="https://github.com/M7mdJs.png" width="100px;" alt="Mohamed Shahba"/>
-        <br />
-        <sub><b>Mohamed Shahba</b></sub>
-      </a>
-      <br />
-      <sub>Frontend Expert</sub>
-    </td>
-  </tr>
-</table>
-
 ## 🧰 Technology Stack
 
 <div align="center">
